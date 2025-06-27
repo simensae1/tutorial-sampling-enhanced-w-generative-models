@@ -7,4 +7,4 @@ git clone https://github.com/marylou-gabrie/tutorial-sampling-enhanced-w-generat
 ```
 or downloading the files directly from the Github interface.
 
-To use the tutorial on Colab you will also need to download the files (use one of the solutions above). Then, add them to your Google Drive and open the notebook `tutorial_sampling_enhanced_w_generative_models.ipynb` from there. 
+To use the tutorial on Colab you will also need to download the entire folder (use one of the solutions above). Then, add it to your Google Drive and open the notebook `tutorial_sampling_enhanced_w_generative_models.ipynb` from there. 
